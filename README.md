@@ -1,4 +1,4 @@
-# UNIX/Linux operating systems (Basic).
+# Linux (Basic).
 
 Linux system installation and updates. Administration basics.
 
